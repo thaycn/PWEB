@@ -1,9 +1,7 @@
-# Atividade 2
-<img src= "https://github.com/thaycn/CPP/blob/main/Functions/Functions.gif" width="70%"/>
-<hr>
+<h1>Atividade 2</h1>
+<br><br>
+<h1>Atividade 3</h1>
 <br>
-# Atividade 3
-
-<hr>
+<h1>Atividade 4</h1>
 <br>
-# Atividade 4
+<img src= "https://github.com/thaycn/PWEB/blob/main/Atividade4/atividade4.png" width="70%"/>
